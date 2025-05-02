@@ -1,31 +1,86 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is sagar 
-=====================================================================================================================================
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-web developer
--------------
+###
 
-My Thriving Web Development Journey: The Past Two Years
-The past two years have been a wild ride for me as a web developer. I've gone from coding newbie to a developer who can actually build some pretty cool stuff. It's been a journey of learning, frustration (lots of frustration!), and ultimately, accomplishment.  Here's a look back at how I've grown:
+<p align="left">I'm Sagar from Kathmandu,Nepal<br><br>- 🔭 I’m working as Full-Stack Developer<br>- 📚 I'm currently learning  advance technology related to web<br>- ⚡ In my free time  I focus on learning and enhancing my skills in cybersecurity and web development</p>
 
-Building the Basics:
+###
 
-Foundation First: First things first, I hammered down the core languages: HTML, CSS, and JavaScript. I wrestled with responsive design until my websites looked flawless on any device, from giant monitors to tiny phone screens.
-Framework Focus: I might have dived deep into a framework like React, Angular, or Vue.js. These frameworks are like magic tools that helped me build complex, single-page applications (SPAs) with smooth user experiences.
-Version Control Master: Git became my best friend. I can track changes, work with other developers on projects, and even go back in time if I mess something up (which, trust me, happens more than I'd like to admit).
-Expanding My Skillset:
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-Backend Breakthrough (Maybe): Maybe I ventured into the world of backend development, learning languages like Python, Java, or PHP. This opened up a whole new dimension, allowing me to build the server-side logic that makes websites work and talk to databases.
-API Ace: I learned how to integrate APIs into my projects like a boss. APIs are basically shortcuts that let me use cool features from other platforms, saving me time and making my apps even more awesome.
-Security Champion: With all the talk about cyber threats these days, I've become super conscious about secure coding practices. I understand the dangers and take steps to make sure my creations are safe and sound.
-Staying Ahead of the Curve:
+###
 
-PWA Powerhouse (Maybe): Progressive Web Apps (PWAs) might be my new thing. These are basically websites that act like apps, offering features like offline functionality and push notifications. Pretty cool, right?
-Cloud Native (Maybe): Cloud platforms like AWS, Azure, or GCP might have become part of my toolkit. These platforms offer on-demand resources that make development and deployment a breeze.
-Lifelong Learner: One thing's for sure – I'm never going to stop learning. I'm constantly taking online courses, attending meetups and conferences, and hanging out with other developers online to stay on top of the latest trends.
-This is just a snapshot of my web development journey over the past two years. The specific technologies I've learned and the projects I've built are unique to me. But the most important thing is that I'm always learning and growing, and I'm excited to see what the future holds for me as a web developer!
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anonyTheCoder.anonyTheCoder&"  />
+</div>
 
+###
 
+<h1 align="center">hey there 👋</h1>
 
-*   🌍  I'm based in Nepal
-*   ✉️  You can contact me at [wwwghimiresagar88@gmail.com](mailto:wwwghimiresagar88@gmail.com)
-*   🧠  I'm learning advance backend technology
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<p align="left">Beginner to Intermediate MERN Stack Developer with hands-on experience in building full-stack projects and continuously improving through practical learning.</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sagar-ghimire-191a28345/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://web.telegram.org/white_user71" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anonyTheCoder/anonyTheCoder/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anonyTheCoder/anonyTheCoder/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anonyTheCoder/anonyTheCoder/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img align="left" src="https://profile-counter.glitch.me/anonyTheCoder/count.svg?"  />
+
+###
