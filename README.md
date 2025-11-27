@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./552707294_819338267298222_8646963405884587945_n.jpg" alt="Sagar Ghimire" width="200" style="border-radius: 50%; border: 4px solid #3b82f6;"/>
+  <!-- <img src="./552707294_819338267298222_8646963405884587945_n.jpg" alt="Sagar Ghimire" width="200" style="border-radius: 50%; border: 4px solid #3b82f6;"/> -->
   
   # 👋 Hi, I'm Sagar Ghimire
   
