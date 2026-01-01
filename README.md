@@ -8,7 +8,7 @@
   <p align="center">
     <a href="https://github.com/infiniteCodeAura"><img src="https://img.shields.io/badge/GitHub-infiniteCodeAura-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
     <a href="https://www.linkedin.com/in/sagar-ghimire-191a28345/"><img src="https://img.shields.io/badge/LinkedIn-Sagar_Ghimire-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-    <a href="mailto:sagar.dtl.88@gmail.com"><img src="https://img.shields.io/badge/Email-sagar.dtl.88@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+   
   </p>
   
   📍 **Kathmandu, Nepal** | 🎓 **IT Student (Expected 2026)**
